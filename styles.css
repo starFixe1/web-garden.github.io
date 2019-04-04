@@ -86,7 +86,8 @@ h1, h2, h3, h4, h5, h6{
     padding: 10px;
 }
 .color01{
-    color: rgb(78, 102, 44);
+    /* color: rgb(78, 102, 44); */
+    color: red;
 }
 
 #w-content{
