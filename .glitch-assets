@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <title>Site Plan</title>
+    <link type="text/css" rel="stylesheet" href="../css/courses.css">
+</head>
+
+<body>
+    <header>
+        <h1>[Dry Oar] Site Plan</h1>
+        <h2>FirstName LastName</h2>
+        <h2>WDD 130-[section]</h2>
+        <!-- In the header above, add your name and class number. For example if you are in section 3 you would put WDD 100.03 -->
+    </header>
+    <main>
+
+        <h2>Overview</h2>>
+        <hr>
+        <h3>Purpose</h3>
+        <p>[Your purpose here]</h2>
+        
+
+        <h3>Audience</h2>
+        <p>[Your audience here]</p>
+        
+
+        <h2>Branding</h2>
+        <h3>Website Logo</h3>
+        <!-- You are not required to use this logo for your site…but you must have a logo for your website.  I can offer additional logos to use, or you can create your own-->
+        <img src="" alt="Logo image">
+        <h2>
+
+ 
+
+    </main>
+
+   
+
+
+</body>
+
+
+{"name":"image.png","date":"2018-05-30T18:22:59.936Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fimage.png","type":"image/png","size":14529,"imageWidth":432,"imageHeight":84,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fimage.png","thumbnailWidth":330,"thumbnailHeight":65,"dominantColor":null,"uuid":"ZpAYsFcc0SdugPRE"}
+{"name":"wireframe-boxes-labels.jpg","date":"2018-05-30T19:56:15.064Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fwireframe-boxes-labels.jpg","type":"image/jpeg","size":192305,"imageWidth":900,"imageHeight":994,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fwireframe-boxes-labels.jpg","thumbnailWidth":299,"thumbnailHeight":330,"dominantColor":"rgb(252,251,251)","uuid":"xZqdCt7R8CkTlRs1"}
+{"uuid":"ZpAYsFcc0SdugPRE","deleted":true}
+{"name":"20160409_184805.jpg","date":"2019-03-03T02:31:39.821Z","url":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2F20160409_184805.jpg","type":"image/jpeg","size":708558,"imageWidth":1920,"imageHeight":1080,"thumbnail":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Fthumbnails%2F20160409_184805.jpg","thumbnailWidth":330,"thumbnailHeight":186,"dominantColor":"rgb(76,76,119)","uuid":"Ta2XRadNVqWQdBeh"}
+{"name":"Screen Shot 2019-03-06 at 11.02.35 AM.png","date":"2019-03-06T16:03:07.787Z","url":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2FScreen%20Shot%202019-03-06%20at%2011.02.35%20AM.png","type":"image/png","size":17305,"imageWidth":203,"imageHeight":213,"thumbnail":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2FScreen%20Shot%202019-03-06%20at%2011.02.35%20AM.png","thumbnailWidth":203,"thumbnailHeight":213,"dominantColor":"rgb(252,252,252)","uuid":"VVV9CaKnfnCHemH9"}
+{"name":"Screen Shot 2019-03-06 at 11.33.52 AM.png","date":"2019-03-06T16:34:13.236Z","url":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2FScreen%20Shot%202019-03-06%20at%2011.33.52%20AM.png","type":"image/png","size":238203,"imageWidth":654,"imageHeight":163,"thumbnail":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Fthumbnails%2FScreen%20Shot%202019-03-06%20at%2011.33.52%20AM.png","thumbnailWidth":330,"thumbnailHeight":83,"dominantColor":"rgb(90,76,60)","uuid":"m9rkeq0qMmeAsTxy"}
+{"name":"Screen Shot 2019-03-06 at 11.47.57 AM.png","date":"2019-03-06T16:49:03.145Z","url":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2FScreen%20Shot%202019-03-06%20at%2011.47.57%20AM.png","type":"image/png","size":415029,"imageWidth":496,"imageHeight":370,"thumbnail":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Fthumbnails%2FScreen%20Shot%202019-03-06%20at%2011.47.57%20AM.png","thumbnailWidth":330,"thumbnailHeight":247,"dominantColor":"rgb(133,101,109)","uuid":"YULO8QWh8iDJBxoR"}
+{"name":"Screen Shot 2019-03-06 at 11.48.33 AM.png","date":"2019-03-06T16:49:04.810Z","url":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2FScreen%20Shot%202019-03-06%20at%2011.48.33%20AM.png","type":"image/png","size":338861,"imageWidth":496,"imageHeight":370,"thumbnail":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Fthumbnails%2FScreen%20Shot%202019-03-06%20at%2011.48.33%20AM.png","thumbnailWidth":330,"thumbnailHeight":247,"dominantColor":"rgb(57,55,34)","uuid":"WzdyUAfRSpYiQWAx"}
+{"uuid":"YULO8QWh8iDJBxoR","deleted":true}
+{"name":"download.jpg","date":"2019-03-06T16:52:40.284Z","url":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Fdownload.jpg","type":"image/jpeg","size":12609,"imageWidth":267,"imageHeight":189,"thumbnail":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Fdownload.jpg","thumbnailWidth":267,"thumbnailHeight":189,"dominantColor":"rgb(122,165,80)","uuid":"DppCOZuM0HZ7wvj7"}
+{"name":"iconfinder_Twitter_194909.svg","date":"2019-03-12T22:26:38.684Z","url":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Ficonfinder_Twitter_194909.svg","type":"image/svg+xml","size":2573,"imageWidth":50,"imageHeight":50,"thumbnail":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Ficonfinder_Twitter_194909.svg","thumbnailWidth":50,"thumbnailHeight":50,"dominantColor":null,"uuid":"hKnRx44ztnpH8bdc"}
+{"name":"iconfinder_Facebook_194929.svg","date":"2019-03-12T22:26:38.703Z","url":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Ficonfinder_Facebook_194929.svg","type":"image/svg+xml","size":1097,"imageWidth":50,"imageHeight":50,"thumbnail":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Ficonfinder_Facebook_194929.svg","thumbnailWidth":50,"thumbnailHeight":50,"dominantColor":null,"uuid":"6SUDRlXpaXTk4syZ"}
+{"name":"iconfinder_Intsagram_194923.svg","date":"2019-03-12T22:26:38.744Z","url":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Ficonfinder_Intsagram_194923.svg","type":"image/svg+xml","size":3414,"imageWidth":50,"imageHeight":50,"thumbnail":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Ficonfinder_Intsagram_194923.svg","thumbnailWidth":50,"thumbnailHeight":50,"dominantColor":null,"uuid":"pUeBQU11thzdTQAU"}
+{"name":"Screen Shot 2019-03-25 at 1.56.46 PM (1).jpg","date":"2019-03-25T18:01:44.097Z","url":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2FScreen%20Shot%202019-03-25%20at%201.56.46%20PM%20(1).jpg","type":"image/jpeg","size":2892,"imageWidth":110,"imageHeight":113,"thumbnail":"https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2FScreen%20Shot%202019-03-25%20at%201.56.46%20PM%20(1).jpg","thumbnailWidth":110,"thumbnailHeight":113,"dominantColor":"rgb(4,4,4)","uuid":"BOq1DmKfUgika7PV"}
+</html>

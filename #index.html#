@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title> Home | White Water Rafting</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- REFER TO THIS TO KNOW WHAT STYLE TO USE COMPUTER  -->
+    <link rel="stylesheet" href="/styles.css">
+
+  </head>
+  <body>
+    <div id="w-content">
+      <header>
+	<div id="logo">
+	  <!-- logo will go here -->
+	  <img class="fullwidth" src="https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2FScreen%20Shot%202019-03-25%20at%201.56.46%20PM%20(1).jpg?1553536904097" >
+	</div>
+	<div>
+	  <nav>
+	    <ul>
+	      <li><a href="index.html">Home</a> |</li>
+	      <li><a href="index.html">About the Swell</a> |</li>
+	      <li><a style= "margin-right: 12px;" href="index.html">Services</a></li>
+	      <!-- <li><a href="aboutme.html">About Me</a></li> -->
+	      <!-- <li><a href="positioning.html">Positioning</a></li> -->
+	    </ul>
+	  </nav>
+	</div>
+      </header>
+      <main>
+	<div> 
+	  <!-- banner image -->
+	  <img class="fullwidth" src="https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2FScreen%20Shot%202019-03-06%20at%2011.33.52%20AM.png?1551890053236" alt = "White Water Banner Image" >
+	</div>
+
+	<!-- Add 3 section rows -->
+	<section id="row1">
+
+	  <!-- Add 2 columns in this first row section -->
+	  <div class="left-column">
+	    <!-- first row left column, (headline paragraph) -->
+	    <h2 class="h2-line-height">We run rivers to relax</h2>
+	    <p class="top-margin-p">
+	      That doesn't mean we don't also like rapids. Opposites in all things after all. We believe that that tenseness that comes when you are looking down the tongue of a big string of waves makes you appreciate the calm beautiful water that always follows even more.
+	    </p>
+	  </div>
+
+	  <div class="right-column">
+	    <!-- first row right column, (image) -->
+	    <img class="fullwidth" src="https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Fdownload.jpg?1551891160284" alt = "Group Enjoying Water Rafting">
+	  </div>
+	</section>
+
+	<section id="row2">
+	  <!-- second row content -->
+	  <!-- Add 2 columns in this second row section -->
+	  <div class="left-column">
+	    <!-- second row left column, (image) -->
+	    <img class="fullwidth" src="https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2FScreen%20Shot%202019-03-06%20at%2011.48.33%20AM.png?1551890944810" alt = "White Water Rafting Scenery">
+
+	  </div>
+
+	  <div class="right-column">
+	    <!-- second row right column, (headline paragraph) -->
+	    <h2 class="h2-line-height">We float the river for the beauty</h2>
+	    <p class="color01">
+	      As you are floating your way down the San Rafael river be sure to enjoy all of the beauty of The Swell. Admire the grand red rocks, sparkling gypsum and spy wildlife like antelope, deer or even a mountain sheep.
+	    </p>
+	  </div>
+	</section>
+
+	<section id="row3">
+	  <!-- third row content -->
+	  <h2>Come run with us</h2>
+	  <p>
+	    We invite you to come relax with us on one of the amazing rivers we visit. Check out our trips and let us know which one best suits you. We're waiting to hear from you!
+	  </p>
+	</section>
+      </main>
+
+      <footer class="flex-footer">
+	<div>
+	  <!-- footer left column, (copy right info) -->
+	  <p>&copy; 2019 Dry Oar  -  Christian Gaertner</p>
+	</div>
+	<!-- footer right column, (social media) -->
+	<!-- twitter -->
+	<div>
+	  <a target="_blank" href="https://twitter.com/?lang=en">
+	    <img src="https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Ficonfinder_Twitter_194909.svg?1552429598684" alt="Twitter logo" ></a>
+
+	  <!-- facebook -->
+	  <a target="_blank" href="https://www.facebook.com/">
+	    <img src="https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Ficonfinder_Facebook_194929.svg?1552429598703" alt="Facebook logo" ></a>
+	  
+	  <!-- instagram --> <!-- re-adust target tag, and it works -->
+	  <a href="https://www.instagram.com/" target="_blank">
+	    <img src="https://cdn.glitch.com/37535060-bd20-4c2c-aca7-70754a3f64e0%2Ficonfinder_Intsagram_194923.svg?1552429598744" alt="Instagram logo" ></a>
+	</div>
+      </footer>
+    </div>
+  </body>
+</html>
+
+
