@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+
+
+#logo{
+    position:absolute;
+    top: 0px;
+    Background-color: black;
+    border: solid thick white;
+    margin-left:20px;
+}
+.fullwidth{
+    width: 100%;
+    max-width: 100%;
+}
+
+/* nav > ul > li{ */
+/*     display:flex; */
+/*     justify-content:left; */
+/* } */
+
+h1 {
+    color: teal;
+}
+
+nav{
+    background-color: #AABD8D;
+    font-size: 1.2em;
+    line-height: 3em;
+    text-align:right;
+    
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color:#7ca6bb;
+    color: #f7f4e7;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+}
+
+nav li{
+    display: inline-block;
+
+}
+
+.header-flex{
+    display:flex;
+    flex-flow:row wrap;
+    justify-content:space-between;
+}
+
+h1, h2, h3, h4, h5, h6{
+
+    color: #7ca6bb;
+    font-family: 'Rock Salt', cursive;
+    margin-bottom: -15px;
+}
+
+#row1, #row2{
+    padding: 1.1em;
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    
+}
+
+#row2{
+    Background-color: blanchedalmond;
+}
+/* #row1{ */
+/*     padding: 1.1em; */
+/*     display:flex; */
+/* } */
+/* #row2{ */
+/*     Background-color: blanchedalmond; */
+/*     padding: 1.1em; */
+/*     display:flex; */
+/* } */
+
+#row3{
+    text-align: center;
+    padding: 10px;
+}
+.color01{
+    color: rgb(78, 102, 44);
+}
+
+#w-content{
+    width: 100%;
+/* 0 is the top part and the auto is the left and right part of your webpage */
+    margin: 0 auto;
+}
+
+
+.left-column, .right-column{
+    width: 48%;
+    padding: 10px;
+    flex: 1 0 15em;
+}
+
+.flex-footer{
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+footer > div > a{
+    margin: 10px;
+}
+
+.h2-line-height{
+    line-height:150%;
+    margin-bottom:10px;
+}
+

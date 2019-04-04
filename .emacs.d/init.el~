@@ -1,0 +1,3 @@
+(add-to-list 'load-path "~/.emacs.d/color-theme-ahungry/")
+(require 'color-theme-ahungry)
+(color-theme-ahungry)
